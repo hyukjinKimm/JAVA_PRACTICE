@@ -6,4 +6,5 @@ public class MemberDefault {
      public  MemberDefault(){
          System.out.println("생성자 호출");
      }
+     
 }
